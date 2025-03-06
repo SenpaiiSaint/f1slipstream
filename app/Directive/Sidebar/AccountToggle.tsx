@@ -17,3 +17,8 @@ export const AccountToggle = () => {
     </div>
   );
 };
+
+
+/* Going to change this to potentially a logo instead 
+  mb-4 and mt-2 control spacing adjust accordingly 
+*/
