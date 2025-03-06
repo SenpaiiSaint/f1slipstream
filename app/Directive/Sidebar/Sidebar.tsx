@@ -1,7 +1,7 @@
 import React from 'react'
 import { AccountToggle } from './AccountToggle'
 import { Navigation } from './Navigation'
-import { Subscription } from './Subscription'
+
 
 export const Sidebar = () => {
   return (
